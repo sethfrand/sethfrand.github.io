@@ -4,8 +4,6 @@ title: "About Me"
 
 ## Background
 
-Write a brief introduction about yourself here. Include:
-
 - Studying data science at Brigham Young University, Minoring in Russian
 - Interested in National Security, Cybersecurity, and Data Science
 - Hope to work for a government agency in the future
