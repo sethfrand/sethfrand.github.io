@@ -15,6 +15,10 @@ title: "About Me"
 - **Computer Science: Data Science** - Brigham Young University, 2027
 - **Relevant Coursework**: Statistics, Data Analysis, Programming, Algorithms, Software Engineering, Russian, etc.
 
+## Work Experience
+
+- ** Library IT at BYU Law School ** - 2022 - Present
+
 ## Skills & Interests
 - Interested in learning more about data science, analytics, and visualization.
 - Love to learn new programming languages and tools.
