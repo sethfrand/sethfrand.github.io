@@ -1,0 +1,150 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "Welcome to my data science portfolio! This site shows my journey learning data science and analytics. Here you’ll find projects that demonstrate what I’ve learned and discovered.\n\n\nThis portfolio shows my work learning data science. Each project includes:\n\nMy code with documentation\nVisualizations I created\nWhat I learned and discovered\n\nI built this site using Quarto and host it on GitHub Pages.\n\n\n\n\nProgramming: Python, Pandas for data analysis\nVisualization: Creating charts with Matplotlib and Seaborn\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data\n\n\n\n\n\n\n\nLearn how I explore datasets to find interesting patterns and answer questions.\n\n\n\nSee how I gather data from different sources and prepare it for analysis.\n\n\n\nSee how I tackle a data science project beginning to end.\n\n\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
+  },
+  {
+    "objectID": "index.html#about-this-portfolio",
+    "href": "index.html#about-this-portfolio",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "This portfolio shows my work learning data science. Each project includes:\n\nMy code with documentation\nVisualizations I created\nWhat I learned and discovered\n\nI built this site using Quarto and host it on GitHub Pages."
+  },
+  {
+    "objectID": "index.html#skills-im-learning",
+    "href": "index.html#skills-im-learning",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "Programming: Python, Pandas for data analysis\nVisualization: Creating charts with Matplotlib and Seaborn\nData Collection: Getting data from files, websites, and APIs\nAnalysis: Finding patterns and answering questions with data"
+  },
+  {
+    "objectID": "index.html#my-projects",
+    "href": "index.html#my-projects",
+    "title": "Welcome to My Data Science Portfolio",
+    "section": "",
+    "text": "Learn how I explore datasets to find interesting patterns and answer questions.\n\n\n\nSee how I gather data from different sources and prepare it for analysis.\n\n\n\nSee how I tackle a data science project beginning to end.\n\n\n\nThanks for visiting! Feel free to explore my projects and see what I’m learning."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects Overview",
+    "section": "",
+    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
+    "crumbs": [
+      "Projects Overview"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#all-projects",
+    "href": "projects/index.html#all-projects",
+    "title": "Projects Overview",
+    "section": "",
+    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
+    "crumbs": [
+      "Projects Overview"
+    ]
+  },
+  {
+    "objectID": "projects/eda.html",
+    "href": "projects/eda.html",
+    "title": "EDA Project",
+    "section": "",
+    "text": "This is coming down the pipeline. Check again later.",
+    "crumbs": [
+      "EDA Project"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Seth Frandsen"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "Background",
+    "text": "Background\n\nStudying data science at Brigham Young University, Minoring in Russian\nInterested in National Security, Cybersecurity, and Data Science\nHope to work for a government agency in the future"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nComputer Science: Data Science - Brigham Young University, 2027\nRelevant Coursework: Statistics, Data Analysis, Programming, etc."
+  },
+  {
+    "objectID": "about.html#skills-interests",
+    "href": "about.html#skills-interests",
+    "title": "About Me",
+    "section": "Skills & Interests",
+    "text": "Skills & Interests\n\nInterested in learning more about data science, analytics, and visualization.\nLove to learn new programming languages and tools.\nLove to learn foreign languages as they open up new opportunities and allow me to connect with more people.\n\n\nTechnical Skills\n\nProgramming: Python, C++, C, Java\nData Analysis: Pandas, NumPy, SQL\nVisualization: Matplotlib, Seaborn\nMachine Learning: Scikit-learn, TensorFlow (beginner)\nData Collection: Web scraping, APIs\nTools: Jupyter Notebooks, Git/GitHub, VS Code, Quarto, JetBrains, Clion, Arduino IDE, Truenas\n\n\n\nAreas of Interest\n\nNational Security\nCybersecurity\nData Science\nMachine Learning\nForeign Languages (Russian, Polish, Chinese)\nDeep Learning\nArtificial Intelligence"
+  },
+  {
+    "objectID": "about.html#goals",
+    "href": "about.html#goals",
+    "title": "About Me",
+    "section": "Goals",
+    "text": "Goals\nDescribe what you hope to achieve through your data science journey:\n\nShort-term learning objectives\nLong-term career aspirations\nTypes of problems you want to solve"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: Sethp.frandsen@gmail.com\nGitHub: github.com/your-sethfrand\nLinkedIn: linkedin.com/in/seth-frand-sf\n\nThis portfolio showcases my learning progress and projects completed during my data science studies."
+  },
+  {
+    "objectID": "projects/data-acquisition.html",
+    "href": "projects/data-acquisition.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Data Acquisition Project"
+    ]
+  },
+  {
+    "objectID": "projects/final-project.html",
+    "href": "projects/final-project.html",
+    "title": "",
+    "section": "",
+    "text": "Code",
+    "crumbs": [
+      "Final Project"
+    ]
+  },
+  {
+    "objectID": "tutorial_blog.html",
+    "href": "tutorial_blog.html",
+    "title": "A simple introduction to linear regression",
+    "section": "",
+    "text": "Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. it is widely used in various fields such as economics, biology, and social sciences to understand how changes in the independent variables affect the dependent variable. it can be be very very useful and is very easy to implement."
+  },
+  {
+    "objectID": "tutorial_blog.html#introduction",
+    "href": "tutorial_blog.html#introduction",
+    "title": "A simple introduction to linear regression",
+    "section": "",
+    "text": "Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. it is widely used in various fields such as economics, biology, and social sciences to understand how changes in the independent variables affect the dependent variable. it can be be very very useful and is very easy to implement."
+  },
+  {
+    "objectID": "tutorial_blog.html#what-is-simple-linear-regression",
+    "href": "tutorial_blog.html#what-is-simple-linear-regression",
+    "title": "A simple introduction to linear regression",
+    "section": "What is Simple Linear Regression?",
+    "text": "What is Simple Linear Regression?\nsimple linear regression models the relationship between a dependent variable y and an independent variable x by fitting a straight line through the data points. The model can be expressed with the formula: \\[y=β_0\n+β_1x+ϵ \\]\nWhere β_0 is the intercept, β_1 is the slope of the line, and ϵ is the error term. The slope is the rate at which y increases when x increases. A simple way to think of this is that for each increase in β_1 then the β_0 will increase an amount. ϵ in this case is the error term and represents random noise, unmeasured factors, or inherent variability in the data that cannot be explained by the linear relationship between x and y.\nUsing this model, we can make predictions about the value of y based on the value of x. It is very simple to implement, and it is very useful. Below is a simple example of how to implement linear regression in python using the scikit-learn library on a simple dataset containing running distance, heart rate, self-evaluation, and sleep score. We will be going over how to use one variable to predict another in our first example and then we will be going over how to use multiple variables to predict another in our second example."
+  },
+  {
+    "objectID": "tutorial_blog.html#conclusion",
+    "href": "tutorial_blog.html#conclusion",
+    "title": "A simple introduction to linear regression",
+    "section": "Conclusion",
+    "text": "Conclusion\nLinear regression is a very useful tool for data analysis and machine learning, with it we can make predictions about the relationship between two variables and can be used to predict future values based on past data. It is very easy to implement and is very useful. Try it out yourself! If you are looking for a more in depth explanation of linear regression or or looking for data sets to practice with, check out Kaggle to see what data sets are available and for another great demo on how to use line regression in python."
+  }
+]

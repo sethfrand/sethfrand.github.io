@@ -2,6 +2,8 @@
 title: "About Me"
 ---
 
+![Seth Frandsen](professional_headshot.jpg)
+
 ## Background
 
 - Studying data science at Brigham Young University, Minoring in Russian
