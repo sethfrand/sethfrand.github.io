@@ -46,6 +46,14 @@ Describe what you hope to achieve through your data science journey:
 - Long-term career aspirations
 - Types of problems you want to solve
 
+
+## Interests and Hobbies
+
+I love to learn new things and to push myself to learn. I enjoy spending time outside 
+and I love to run. I am currently training for a marathon and would like to 
+venture into ultramarathons in the future. When I am not in school or working,
+I enjoy spending time with my wife and having adventures with her.
+
 ## Contact
 
 - **Email**: Sethp.frandsen@gmail.com
