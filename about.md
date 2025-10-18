@@ -39,6 +39,7 @@ title: "About Me"
 - Machine Learning
 - Foreign Languages (Russian, Polish, Chinese)
 - Deep Learning
+- Machine Learning
 - Artificial Intelligence
 - RAG
 
