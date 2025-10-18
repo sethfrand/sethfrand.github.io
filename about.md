@@ -17,7 +17,7 @@ title: "About Me"
 
 ## Work Experience
 
-- ** Library IT at BYU Law School ** - 2022 - Present
+- Library IT at BYU Law School - 2022 - Present
 
 ## Skills & Interests
 - Interested in learning more about data science, analytics, and visualization.
