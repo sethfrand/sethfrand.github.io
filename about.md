@@ -6,14 +6,14 @@ title: "About Me"
 
 ## Background
 
-- Studying data science at Brigham Young University, Minoring in Russian
+- Studying Data Science at Brigham Young University, Minoring in Russian
 - Interested in National Security, Cybersecurity, and Data Science
-- Hope to work for a government agency in the future
+- Hope to work for a government agency in the future. 
 
 ## Education
 
 - **Computer Science: Data Science** - Brigham Young University, 2027
-- **Relevant Coursework**: Statistics, Data Analysis, Programming, etc.
+- **Relevant Coursework**: Statistics, Data Analysis, Programming, Algorithms, Software Engineering, Russian, etc.
 
 ## Skills & Interests
 - Interested in learning more about data science, analytics, and visualization.
@@ -36,16 +36,15 @@ title: "About Me"
 - Foreign Languages (Russian, Polish, Chinese)
 - Deep Learning
 - Artificial Intelligence
+- RAG
 
 
 ## Goals
 
 Describe what you hope to achieve through your data science journey:
 
-- Short-term learning objectives
-- Long-term career aspirations
-- Types of problems you want to solve
-
+- I hope to combine the fields of data science and cybersecurity to help protect national security.
+- I want to develop skills that will allow me to analyze large datasets to find patterns and insights
 
 ## Interests and Hobbies
 

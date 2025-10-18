@@ -146,5 +146,12 @@
     "title": "A simple introduction to linear regression",
     "section": "Conclusion",
     "text": "Conclusion\nLinear regression is a very useful tool for data analysis and machine learning, with it we can make predictions about the relationship between two variables and can be used to predict future values based on past data. It is very easy to implement and is very useful. Try it out yourself! If you are looking for a more in depth explanation of linear regression or or looking for data sets to practice with, check out Kaggle to see what data sets are available and for another great demo on how to use line regression in python."
+  },
+  {
+    "objectID": "about.html#interests-and-hobbies",
+    "href": "about.html#interests-and-hobbies",
+    "title": "About Me",
+    "section": "Interests and Hobbies",
+    "text": "Interests and Hobbies\nI love to learn new things and to push myself to learn. I enjoy spending time outside and I love to run. I am currently training for a marathon and would like to venture into ultramarathons in the future. When I am not in school or working, I enjoy spending time with my wife and having adventures with her."
   }
 ]
