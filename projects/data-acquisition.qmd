@@ -8,4 +8,6 @@ format:
     toc: true
 ---
 
-This is coming down the pipeline. Check again later.
+This is some test text
+here is a test image
+![test image](professional_headshot.png)

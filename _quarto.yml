@@ -15,6 +15,8 @@ website:
         href: about.md
       - text: "Tutorial Blog"
         href: tutorial_blog.qmd
+      - text: "Spotify Analysis"
+        href: spotify_analysis.qmd
       - text: "Projects"
         menu:
           - text: "All Projects"
