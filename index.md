@@ -28,13 +28,13 @@ I built this site using [Quarto](https://quarto.org/) and host it on [GitHub Pag
 ::: {.grid}
 
 ::: {.g-col-6}
-### [Data Exploration Project](projects/eda.qmd)
-Learn how I explore datasets to find interesting patterns and answer questions.
+### [Data Exploration Project](tutorial_blog.qmd)
+This is my Tutorial on Simple Linear Regression
 :::
 
 ::: {.g-col-6}
-### [Data Collection Project](projects/data-acquisition.qmd)
-See how I gather data from different sources and prepare it for analysis.
+### [Data Collection Project](Blog2.qmd)
+See how I gather Spotify data using the Spotify API.
 :::
 
 ::: {.g-col-6}
