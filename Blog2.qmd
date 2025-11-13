@@ -1,0 +1,9 @@
+---
+title: "My Second Blog Post"
+author: "Seth Frandsen"
+date: "2025-11-12"
+format:
+  html:
+    code-fold: true
+    toc: true
+---

@@ -16,6 +16,8 @@ website:
       - text: "Tutorial Blog"
         href: tutorial_blog.qmd
       - text: "Projects"
+      - text: "Blog2 -- Spotify Data Analysis"
+        href: Blog2.qmd
         menu:
           - text: "All Projects"
             href: projects/index.md
