@@ -1,0 +1,11 @@
+---
+title: A simple introduction to linear regression
+date: "2025-11-12"
+author: "Seth Frandsen"
+format:
+  html:
+    code-fold: true
+    toc: true
+    toc-depth: 3
+---
+
